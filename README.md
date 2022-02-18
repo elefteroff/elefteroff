@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on assignments for my Java class.  I graduate on March 4, 2022!
 - 🌱 I’m currently learning Java and Spring.
-- 👯 I’m looking to collaborate on projects utilizing the Python, MERN or Java stacks.
+- I’m looking to collaborate on projects utilizing the Python, MERN or Java stacks.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about my interests in tech and business.
 - ⚡ How to find me: www.ericlefteroff.com or https://www.linkedin.com/in/eric-lefteroff
