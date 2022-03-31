@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on assignments for my Java class.  I graduate on March 4, 2022!
-- 🌱 I’m currently learning Java and Spring.
+- 🔭 I recently graduated on March 4, 2022 from Coding Dojo's fulltime, online, intensive coding bootcamp!
+- 🌱 I’m currently brushing up on my coding skills, especially on Java and Spring.
 - I’m looking to collaborate on projects utilizing the Python, MERN or Java stacks.
 - 🤔 I’m looking for help with project ideas.
 - 💬 Ask me about my interests in tech and business.
